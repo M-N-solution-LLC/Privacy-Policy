@@ -2,7 +2,7 @@
 
 _Last Updated: August 25, 2024_
 
-**UmmahConnects** ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our app, **UmmahConnects** ("the App").
+**CareConnect** ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our app, **CareConnect** ("the App").
 
 ### 1. **Information We Collect**
 
@@ -10,7 +10,7 @@ We may collect and process the following types of information:
 
 - **Personal Information:** When you create an account, you may provide us with personal information such as your name, email address, and other contact details.
 - **Usage Data:** We collect information about how you use the App, including your interactions, device information, and usage statistics.
-- **Location Data:** We may collect location data if you enable location-based features, such as Qibla direction.
+- **Location Data:** We may collect location data if you enable location-based features, such as finding nearby healthcare providers.
 
 ### 2. **How We Use Your Information**
 
@@ -46,13 +46,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ### 7. **Contact Us**
 
 If you have any questions or concerns about this Privacy Policy, please contact us via email at mn.solution.dev@gmail.com.
-
----
-
-### Customizing the Privacy Policy
-
-- Replace **UmmahConnects** with your app’s name as needed.
-- Update the "Last Updated" date whenever you modify the Privacy Policy.
-- Tailor the sections to fit your app’s specific data practices and legal requirements.
-
-Consider consulting with a legal professional to ensure your Privacy Policy is comprehensive and compliant with relevant laws and regulations.
