@@ -1,48 +1,33 @@
-**Privacy Policy**
 
-_Last Updated: August 25, 2024_
+Terms of Use
 
-**CareConnect** ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our app, **CareConnect** ("the App").
+By downloading and installing or using this application provided to the user by the developer with the alias MN Solution LLC, you agree to the Terms of Use and Privacy Policy. They are subject to change at any point in time.
 
-### 1. **Information We Collect**
+The app, Wallie, is provided to you by MN Solution LLC without warranty of any kind, implied or expressed, as is. The developer will try their best, however, not all data may be accurate, and therefore there is no insurance or guarantee over this accuracy of any kind. The developer is not responsible and cannot be held accountable for any misinformation/incorrect data found within this app, and therefore damages of any kind that may have incurred.
 
-We may collect and process the following types of information:
+The developer has the right to change the app, and everything related to it, in any way that they see fit. They hold the right to change any aspect within the app itself, which may include but not limited to: add, remove any features/capabilities, services provided by the app, such as backup and logins, and update/not update data within the app.
 
-- **Personal Information:** When you create an account, you may provide us with personal information such as your name, email address, and other contact details.
-- **Usage Data:** We collect information about how you use the App, including your interactions, device information, and usage statistics.
-- **Location Data:** We may collect location data if you enable location-based features, such as finding nearby healthcare providers.
+Privacy Policy
 
-### 2. **How We Use Your Information**
+We value the security of your financial and budget data. Wallie performs backups of your information, including financial transactions and budget details using Google Drive. These backups are stored on your personal Google Drive, and as the developer, we do not have access to this data. While we make every effort to maintain data integrity, it's important to understand that we cannot guarantee against loss or corruption. To ensure an additional layer of protection, we recommend maintaining an independent backup of your data. Your use of the budget tracking application signifies your acceptance of this backup policy.
 
-We use the information we collect for various purposes, including:
+All data is stored locally on device using SQL for database data and local storage for settings and other preferences. This information is not shared with the developer, unless explicitly shared with the developer.
 
-- **To Provide and Improve Our Services:** We use your information to operate and enhance the App, including personalizing your experience and responding to your requests.
-- **To Communicate with You:** We may use your contact details to send you updates, notifications, and other information related to the App.
-- **To Analyze and Understand Usage:** We analyze usage data to understand how users interact with the App and to improve its performance and features.
+When leaving feedback for the developer, only the information provided is shared. Any notes/rating/feedback provided in the form will be sent to the developer. The information shared is stated in the popup within the application.
 
-### 3. **Sharing Your Information**
+Wallie is an open source project. The source code is available on GitHub.
 
-We do not sell or rent your personal information. We may share your information in the following circumstances:
+Licenses
 
-- **With Service Providers:** We may share your information with third-party service providers who assist us in operating the App and providing services.
-- **For Legal Reasons:** We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+This application was created using Flutter by Google. All application source code is of property to respective owners/contributors listed on the Credits page and/or licenses associated within specific packages/libraries within this application.
 
-### 4. **Data Security**
+Where applicable and needed, by law/without law, sources are provided as a hyperlink within the app itself and are only listed here as informative purposes, to not give/infer any credit given to the owner/source in this context
 
-We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, so we cannot guarantee absolute security.
 
-### 5. **Your Rights**
+Contact
 
-You have the right to:
+Feel free to reach out on email: mn.solution.dev@gmail.com
 
-- **Access and Update:** Access and update your personal information through your account settings.
-- **Delete:** Request the deletion of your account and personal information.
-- **Opt-Out:** Opt out of receiving promotional communications from us.
+Policy Updates
 
-### 6. **Changes to This Privacy Policy**
-
-We may update this Privacy Policy from time to time. Any changes will be posted within the App, and your continued use of the App constitutes your acceptance of the updated policy.
-
-### 7. **Contact Us**
-
-If you have any questions or concerns about this Privacy Policy, please contact us via email at mn.solution.dev@gmail.com.
+Friday, July 28, 2023 - initial policy
